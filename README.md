@@ -5,11 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=realdevdavid" alt="realdevdavid" /></a> </p>
 
-- Lead Developer [LADOJRP](https://discord.gg/LADOJRP)
+- Doing me things
 
-- Owner [Duke Development](https://discord.gg/Dukedev)
-
-- Working on **Debadging cars**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
