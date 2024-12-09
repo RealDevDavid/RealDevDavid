@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm David</h1>
-<h3 align="center">Lead Developer for LADOJRP Owner of Duke Development FiveM Vehicle Developer Discord Bot Developer</h3>
+<h3 align="center">FiveM Vehicle Developer Discord Bot Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=realdevdavid&label=Profile%20views&color=009dff&style=flat-square" alt="realdevdavid" /> </p>
 
